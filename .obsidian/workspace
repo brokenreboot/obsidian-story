@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline Info.md",
+            "file": "Characters/Ren.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline Info.md",
+                "file": "Characters/Ren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "165e74f621e82226",
   "lastOpenFiles": [
-    "Timeline Info.md",
-    "Characters/Ren.md"
+    "Characters/Ren.md",
+    "Timeline Info.md"
   ]
 }
