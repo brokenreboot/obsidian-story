@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/---.png"
+            "file": "Images/Maru.png"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/---.png",
+                "file": "Images/Maru.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
-    "Images/---.png",
+    "Images/Maru.png",
     "Images/Aero.png",
     "Locations/Stratospherical City.md",
     "Locations/The Outer Boundaries.md",
