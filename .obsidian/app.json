@@ -1,4 +1,5 @@
 {
   "spellcheck": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "fileSortOrder": "alphabetical"
 }
