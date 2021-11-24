@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/---.png"
+            "file": "Images/Aero.png"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/---.png",
+                "file": "Images/Aero.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
-    "Images/---.png",
     "Images/Aero.png",
+    "Images/Ren.png",
+    "Images/---.png",
     "Characters/Untitled 2.md",
     "Characters/Ren.md",
     "Characters/Untitled.md",
     "Locations/The Outer Boundaries.md",
     "Locations/Stratospherical City.md",
     "Characters/Untitled 1.md",
-    "Images/Ren.png",
     "Timeline Info.md"
   ]
 }
