@@ -1,5 +1,5 @@
 **A being created by Addendum as a guide to the Timeline.**
 ---
 
-He exists as a human within the [[Stratospherical City]] boundaries.
+They exist as a human working as a Tour Guide within the [[Stratospherical City]] boundaries.
 
