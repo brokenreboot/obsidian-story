@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/O.png"
+            "file": "Images/---.png"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/O.png",
+                "file": "Images/---.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,8 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
-    "Images/O.png",
+    "Images/---.png",
+    "Images/Aero.png",
     "Characters/Untitled 2.md",
     "Characters/Ren.md",
     "Characters/Untitled.md",
@@ -95,7 +96,6 @@
     "Locations/Stratospherical City.md",
     "Characters/Untitled 1.md",
     "Images/Ren.png",
-    "Timeline Info.md",
-    "Images/Possible Names.png"
+    "Timeline Info.md"
   ]
 }
