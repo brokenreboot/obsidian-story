@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/wha.png"
+            "file": "Images/O.png"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/wha.png",
+                "file": "Images/O.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
-    "Images/wha.png",
+    "Images/O.png",
     "Characters/Untitled 2.md",
     "Characters/Ren.md",
     "Characters/Untitled.md",
