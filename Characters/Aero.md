@@ -2,7 +2,7 @@ Placeholder Text - Aero
 ---
 
 ---
-![[]]
+![[Aero.png]]
 
 Aero is a guard placed on [[The Outer Boundaries]] patrol team.
 
