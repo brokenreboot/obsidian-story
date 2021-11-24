@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Stratospherical City.md",
+            "file": "Characters/Ren.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Stratospherical City.md",
+                "file": "Characters/Ren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "165e74f621e82226",
   "lastOpenFiles": [
-    "Locations/Stratospherical City.md",
     "Characters/Ren.md",
+    "Untitled.md",
+    "Locations/Stratospherical City.md",
     "Timeline Info.md"
   ]
 }
