@@ -1,4 +1,4 @@
-**A being created by Addendum as a guide to the Timeline.**
+**A lower being created by Addendum as a guide to the Timeline.**
 ---
 
 ![[Ren.png]]

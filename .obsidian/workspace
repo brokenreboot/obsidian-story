@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "924cb0711a918915",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Ren.md",
+            "mode": "preview"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -89,9 +100,9 @@
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
     "Characters/Ren.md",
-    "Ren.png",
+    "Images/Ren.png",
     "Locations/Stratospherical City.md",
-    "Possible Names.png",
+    "Images/Possible Names.png",
     "Timeline Info.md",
     "Untitled.md"
   ]
