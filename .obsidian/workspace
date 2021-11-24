@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Ren.md",
+            "file": "Locations/Untitled.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "924cb0711a918915",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Characters/Ren.md",
-            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ren.md",
+                "file": "Locations/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +88,14 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
+    "Locations/Untitled.md",
     "Characters/Ren.md",
+    "Locations/Stratospherical City.md",
+    "Characters/Untitled 2.md",
+    "Characters/Untitled 1.md",
+    "Characters/Untitled.md",
     "Images/Ren.png",
     "Timeline Info.md",
-    "Locations/Stratospherical City.md",
-    "Images/Possible Names.png",
-    "Untitled.md"
+    "Images/Possible Names.png"
   ]
 }
