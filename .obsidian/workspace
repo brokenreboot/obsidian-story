@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timeline Info.md",
+            "file": "Characters/Ren.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline Info.md",
+                "file": "Characters/Ren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,9 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
-    "Timeline Info.md",
     "Characters/Ren.md",
     "Images/Ren.png",
+    "Timeline Info.md",
     "Locations/Stratospherical City.md",
     "Images/Possible Names.png",
     "Untitled.md"
