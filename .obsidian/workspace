@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Stratospherical City.md",
+            "file": "Characters/Aero.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Stratospherical City.md",
+                "file": "Characters/Aero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
+    "Characters/Aero.md",
+    "Characters/Maru.md",
+    "Characters/Ren.md",
     "Locations/Stratospherical City.md",
     "Locations/The Outer Boundaries.md",
-    "Characters/Maru.md",
-    "Characters/Aero.md",
     "Images/Maru.png",
     "Images/Aero.png",
     "Images/Ren.png",
     "Characters/Untitled 2.md",
-    "Characters/Ren.md",
     "Timeline Info.md"
   ]
 }
