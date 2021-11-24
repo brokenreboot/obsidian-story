@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Images/download20211103123944.png"
+            "file": "Images/wha.png"
           }
         }
       }
@@ -51,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c27d6ffbf6557704",
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/download20211103123944.png",
+                "file": "Images/wha.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +87,12 @@
   },
   "active": "b5039a485163e7d3",
   "lastOpenFiles": [
-    "Images/download20211103123944.png",
+    "Images/wha.png",
+    "Characters/Untitled 2.md",
     "Characters/Ren.md",
     "Characters/Untitled.md",
     "Locations/The Outer Boundaries.md",
     "Locations/Stratospherical City.md",
-    "Characters/Untitled 2.md",
     "Characters/Untitled 1.md",
     "Images/Ren.png",
     "Timeline Info.md",
